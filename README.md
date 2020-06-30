@@ -6,7 +6,7 @@ This file Consists of basic machine learning (Classification) concepts on *Fishe
 
 # Table of Contents
 * [Introduction](#Introduction)
-* [Aim of the Project](#Aim-of-the-Project)
+* [Aim of the Project](#Aim-of-the-CaseStudy)
 * [Working with Dataset](#Working-with-Dataset)
 * [Conclusion](#Conclusion)
 
